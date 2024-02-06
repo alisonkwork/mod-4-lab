@@ -1,1 +1,29 @@
 /* Add screen styles below */
+
+body {
+    background-color: #f6f8f9;
+    margin: 0px;
+}
+
+header {
+    padding: 15px 25px;
+    background-color: #fff;
+}
+
+h1 {
+    color: #565656;
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-size: 48px;
+    letter-spacing: -2px;
+}
+
+.card {
+    margin: 0 auto;
+    padding: 50px;
+    width: 50%;
+    text-align: center;
+}
+
+.img {
+    float: right;
+}
