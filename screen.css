@@ -15,6 +15,12 @@ header {
     background-color: #fff;
 }
 
+.about {
+    margin: 0 auto;
+    width: 50%;
+    padding: 20px;
+}
+
 h1 {
     color: #3A8A88;
     font-family: "Open Sans", Helvetica, sans-serif;
@@ -44,14 +50,8 @@ p {
     letter-spacing: -1px;
     font-family: "Open Sans", Helvetica, sans-serif;
     text-align: center;
-    
 }
 
-.card {
-    margin: 0 auto;
-    width: 50%;
-    padding: 20px;
-}
 
 
 
